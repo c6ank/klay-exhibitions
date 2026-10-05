@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schema\":1,\"updated\":\"2026-10-04\",\"featured\":\"weight-of-things\",\"exhibits\":[{\"id\":\"weight-of-things\",\"title\":\"weight of \\\"things\\\"\",\"artist\":\"Samuel poirier\",\"added\":\"2026-10-04\",\"size\":110318781,\"sha512\":\"f2494330d873dc95ca1b37eb4e6d6879cf8b36ab8cb679083f10490de2aa8200d357b53a51f6138bff50825f312970f270bb76ab480e94fcb8360d5016d3a6e4\",\"url\":\"https://github.com/c6ank/klay-exhibitions/releases/download/exhibits/weight-of-things.klaylock\",\"thumb\":\"https://github.com/c6ank/klay-exhibitions/releases/download/exhibits/weight-of-things.jpg\"}]}",
+  "sig": "2f0bf563ae8e6507fa4f729b3863944c7ab0c32910465ad0ce9d6be33c647a6f2cae590ddd5cc91f4ed623b04049c87190f1cd35d3767db43ec38708caaef902"
+}
